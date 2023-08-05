@@ -1,2 +1,1 @@
-# Calculator
-This is simply a basic implementation of HTML , CSS and JavaScript. 
+https://chintanjana.github.io/Calculator/
